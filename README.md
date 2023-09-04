@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer based in Switzerland</h3>
 
 <h4 align="center">
-I’m one of the founder of codelab91
+I’m one of the founders of codelab91
 </h4>
 <h4 align="center">
 You can ask me all about Ruby and JavaScript - i am happy to help you out!
